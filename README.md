@@ -116,14 +116,12 @@ Status:       [ ██████████ ] 100% OPERACIONAL
 
 ## 🕐 ATIVIDADE RECENTE
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
 
 ---
 
 ## 🌐 CONNECT
-
-<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafaelsilvadevapp)
 [![Website](https://img.shields.io/badge/devimploy.com-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=black)](https://devimploy.com)
