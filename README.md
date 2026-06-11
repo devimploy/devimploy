@@ -33,7 +33,9 @@
 
 > *"Não cobro pela hora, cobro pelo resultado."*
 
-🇧🇷 **Brasil** · 🌐 [devimploy.com](https://devimploy.com) · 💼 [LinkedIn](https://linkedin.com/in/rafaelsilvadevapp)
+🇧🇷 **Brasil** · 🌐 [devimploy.com](https://devimploy.com) · 💼 [LinkedIn](https://linkedin.com/in/rafaelsilvadevapp) · 🐙 [GitHub](https://github.com/devimploy)
+
+![Profile Views](https://komarev.com/ghpvc/?username=devimploy&color=00f7ff&style=for-the-badge&label=VISITANTES)
 
 </div>
 
@@ -92,7 +94,16 @@ Status:       [ ██████████ ] 100% OPERACIONAL
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devimploy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=ffffff)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=devimploy&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f7ff&ring=00f7ff&fire=ff6b35&currStreakLabel=00f7ff)
+
 </div>
+
+---
+
+## 🕐 ATIVIDADE RECENTE
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
@@ -102,6 +113,7 @@ Status:       [ ██████████ ] 100% OPERACIONAL
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafaelsilvadevapp)
 [![Website](https://img.shields.io/badge/devimploy.com-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=black)](https://devimploy.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devimploy)
 [![Google Partner](https://img.shields.io/badge/Google_AppSheet_Partner-34A853?style=for-the-badge&logo=google&logoColor=white)](https://partner.cloudskillsboost.google/public_profiles/6359ed02-f088-44db-a213-cfed5c93ac6a)
 
 </div>
@@ -113,7 +125,5 @@ Status:       [ ██████████ ] 100% OPERACIONAL
 ```
 [ DEVIMPLOY SYSTEMS © 2026 — TRANSFORMAÇÃO DIGITAL SEM LIMITES ]
 ```
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=devimploy.devimploy&color=00f7ff)
 
 </div>
