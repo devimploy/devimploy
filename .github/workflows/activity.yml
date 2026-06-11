@@ -24,6 +24,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          USERNAME: devimploy
-          MAX_LINES: 5
-          COMMIT_MSG: '⚡ [BOT] Auto-update: atividade recente do GitHub'
+          GH_USERNAME: devimploy
