@@ -1,0 +1,6 @@
+# Configuracao para Readme-Workflows/recent-activity@v2.4.1
+settings:
+  username: devimploy
+    limit: 5
+      readme_file: ./README.md
+        commit_message: "⚡ [BOT] Auto-update: atividade recente do GitHub"
