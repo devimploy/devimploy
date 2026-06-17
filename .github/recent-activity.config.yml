@@ -6,4 +6,4 @@ settings:
   commit_message: "⚡ [BOT] Auto-update: atividade recente do GitHub"
 
 messages:
-  push: "⬆️ Fez push de {AMOUNT} commit(s) para {REPO}"
+  push: "⬆️ Fez push de commits para {REPO}"
