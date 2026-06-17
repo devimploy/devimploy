@@ -102,7 +102,7 @@ Status:       [ ██████████ ] 100% OPERACIONAL
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=devimploy&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f7ff&ring=00f7ff&fire=ff6b35&currStreakLabel=00f7ff&sideLabels=00f7ff&dates=ffffff)
+![GitHub Streak](https://streak-stats.demolab.com/?user=devimploy&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f7ff&ring=00f7ff&fire=ff6b35&currStreakLabel=00f7ff&sideLabels=00f7ff&dates=ffffff&v=2)
 
 </div>
 
